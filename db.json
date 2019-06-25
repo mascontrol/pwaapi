@@ -1,0 +1,8 @@
+{
+"product": [
+{"id":1,"name":"mualim","category":"red"},
+{"id":2,"name":"mualim2","category":"blue"},
+{"id":3,"name":"mualim3","category":"yellow"},
+{"id":4,"name":"mualim4","category":"green"}
+]
+}
